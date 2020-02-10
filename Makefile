@@ -1,0 +1,2 @@
+default:
+	elixir index.exs
